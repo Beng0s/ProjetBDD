@@ -1,0 +1,38 @@
+.titre {
+
+	font-family: Calibri, sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+
+}
+
+
+#connexion{
+
+	
+	display: inline-block;
+	border: 5px solid black;
+	text-align: right;
+	font-family: Calibri, sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	
+
+
+}
+
+#inscription{
+
+	font-family: Calibri, sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+}
+
+#user {
+
+	position: static;
+	left: 10%;
+	padding-top: 25%;
+	width: 25%;
+	height: auto;
+}
